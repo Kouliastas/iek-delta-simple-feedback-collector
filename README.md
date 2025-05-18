@@ -28,8 +28,6 @@ This is a basic web application designed to collect user feedback through a simp
 - **PHP** – Server-side processing and storage of feedback in `feedback.txt`.
 
 ---
- 
----
 
 ## Running the PHP Server Locally
 
