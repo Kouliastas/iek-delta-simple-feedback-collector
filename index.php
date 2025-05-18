@@ -14,7 +14,7 @@
       <input type="text" id="name" name="name">
 
       <label for="email">Email:</label>
-      <input type="email" id="email" name="email" required>
+      <input type="email" id="email" name="email">
 
       <label for="message">Message:</label>
       <textarea id="message" name="message" required></textarea>
